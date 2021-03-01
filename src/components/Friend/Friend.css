@@ -1,0 +1,7 @@
+.friends-container{
+    display:flex;
+}
+.details-container{
+    width:70%;
+    margin-left: 40px;
+}
